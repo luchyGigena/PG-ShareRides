@@ -9,6 +9,3 @@ const router = Router();
 
 module.exports = router;
 
-// mi amor te amo mucho
-
-//prueba prueba
